@@ -1,7 +1,16 @@
 # Ventas Cafeteria V1.0
-Proyecto para venta de productos de una cafetera con el cual se podra realizar el control de inventario de una cafeteria
+Proyecto para el registro de venta de productos de una cafetera, el software permite hacer el control de inventario de los productos.
 
-##### El proyecto se adapta a la pantalla de cualquier dispositivo
+### Funcionaliddes
+* Regitrar productos en el sistema
+* Actualizar la informacion de los productos registrados
+* Eliminar productos
+* Regitrar ventas
+    - Si el producto no existe no permite hacer la venta
+    - Si el producto no tiene stock no permite hacer la venta
+* Visualizar la lista de productos y el stock disponible
+
+### El proyecto se adapta a la pantalla de cualquier dispositivo
 
 ## Especificaciones
 En la carpeta [cafeteria/config](https://github.com/Geekerypro/cafeteria/tree/master/config) se encuentra:
