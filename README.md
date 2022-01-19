@@ -18,6 +18,7 @@ En la carpeta cafeteria/config se encuentra:
     * version_comment - (Ubuntu)               
     * version_compile_machine - x86_64                 
     * version_compile_os - Linux                  
-    * version_compile_zlib - 1.2.11                 
+    * version_compile_zlib - 1.2.11      
+         
 
 

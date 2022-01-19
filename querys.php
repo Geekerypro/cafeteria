@@ -11,11 +11,10 @@ $result_listaVentas = listarVentas($conexion, $query_listaVentas);
 ?>
 
 <div class="container">
-    <h3>Querys Directos</h3>
+    <h3 class="mt-4">Querys Directos</h3>
+    <br>
+    <h5>Consulta de producto con mayor stock</h5>
     <p>select * from productos where stock = (select max(stock) from productos);</p>
-
-    <p>select productos.nombre, producto.stock from ventas, productos where </p>
-    
 </div>
 
 <?php include "parts/footer.php"; ?>
