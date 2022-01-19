@@ -24,10 +24,21 @@ En la carpeta [cafeteria/config](https://github.com/Geekerypro/cafeteria/tree/ma
 
 ## Herramientas Usadas
 
+#### **_FRONT_**
 1. BOOTSTRAP 4.6 (Framework para el diseño del Front)
-2. Apache/2.4.41 (Ubuntu)
-3. PHP 7.4.3
-4. MYSQL 8.0.27
+  * [Documentacion Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+  * [CDN de Bootstrap CSS](https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css)
+  * [CDN de Bootstrap JQuery](https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js)
+  * [CDN de Bootstrap Javacript](https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js)
+  * [CDN de Bootstrap Popper](https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js)
+2. FONT AWESOME (Libreria de Iconos)
+  * [Iconos Free de Font Awesome](https://fontawesome.com/v5.15/icons?m=free)
+  * [CDN de Font Awesome](https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css)
+
+#### **_BACK_**
+1. Apache/2.4.41 (Ubuntu)
+2. PHP 7.4.3
+3. MYSQL 8.0.27
    - version 8.0.27-0ubuntu0.20.04.1
    - version_comment - (Ubuntu)
    - version_compile_machine - x86_64
