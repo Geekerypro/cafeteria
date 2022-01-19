@@ -20,7 +20,7 @@ En la carpeta [cafeteria/config](https://github.com/Geekerypro/cafeteria/tree/ma
 
 ## Herramientas Usadas
 1. BOOTSTRAP 4.6 (Framework para el diseño del Front)
-2. Apache Apache/2.4.41 (Ubuntu)
+2. Apache/2.4.41 (Ubuntu)
 3. PHP 7.4.3
 4. MYSQL 8.0.27
     * version 8.0.27-0ubuntu0.20.04.1
