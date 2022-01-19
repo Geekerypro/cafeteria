@@ -12,7 +12,7 @@ Proyecto para el registro de venta de productos de una cafetera, el software per
   - Si el producto no tiene stock no permite hacer la venta
 - Visualizar la lista de productos y el stock disponible
 
-### El proyecto se adapta a la pantalla de cualquier dispositivo
+#### **_El proyecto se adapta a la pantalla de cualquier dispositivo_**
 
 ## Especificaciones
 
