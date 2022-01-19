@@ -6,6 +6,7 @@ $conexion = mysqli_connect(
     "",
     "cafeteria"
 );
+echo phpinfo();
 /*
 if (isset($conexion)) {
     echo "si esta conectado";
