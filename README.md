@@ -22,6 +22,17 @@ En la carpeta cafeteria/config se encuentra:
 
 ## Vistas de Proyecto           
 
+Vista 1
+![Image text](https://github.com/Geekerypro/cafeteria/blob/master/otros/vista1.png)
+
+Vista 2
+![Image text](https://github.com/Geekerypro/cafeteria/blob/master/otros/vista2.png)
+
+Vista 3
+![Image text](https://github.com/Geekerypro/cafeteria/blob/master/otros/vista3.png)
+
+Vista 4
+![Image text](https://github.com/Geekerypro/cafeteria/blob/master/otros/vista4.png)
 
 
 
