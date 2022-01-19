@@ -1,7 +1,7 @@
 # Ventas Cafeteria V1.0
 Proyecto para el registro de venta de productos de una cafetera, el software permite hacer el control de inventario de los productos.
 
-### Funcionaliddes
+### Funcionalidades
 * Regitrar productos en el sistema
 * Actualizar la informacion de los productos registrados
 * Eliminar productos
