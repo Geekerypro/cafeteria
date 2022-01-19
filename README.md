@@ -4,7 +4,7 @@ Proyecto para venta de productos de una cafetera con el cual se podra realizar e
 ##### El proyecto se adapta a la pantalla de cualquier dispositivo
 
 ## Especificaciones
-En la carpeta [cafeteria/config] (https://github.com/Geekerypro/cafeteria/tree/master/config) se encuentra:
+En la carpeta [cafeteria/config](https://github.com/Geekerypro/cafeteria/tree/master/config) se encuentra:
 1. El backup de la base de datos
 2. Los query solicitados en el requerimineto para las consultas directas a la base de datos
 3. Especificaciones de sofware
